@@ -34,6 +34,7 @@
 ## Others
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golfyos&repo=cypress-api&theme=aura)](https://github.com/golfyos/cypress-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golfyos&repo=cypress-web&theme=aura)](https://github.com/golfyos/cypress-web)
 
 [![HitCount](https://hits.dwyl.com/golfyos/golfyos.svg?style=flat)](http://hits.dwyl.com/golfyos/golfyos)
 
